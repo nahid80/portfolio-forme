@@ -1,0 +1,73 @@
+body{ 
+    padding: 0px;
+    margin: 0px;
+    
+}
+.half-width{
+    float: left;
+    width:40%;
+    margin-left: 60px;
+}
+.heighlight{
+    color: orange;
+}
+.widht{
+    width: 400px;
+    margin-left: 200px;
+}
+.top-background{
+    background-image: url("developer-portfolio/top-banner.png");
+    background-repeat: no-repeat;
+}
+.button-design{
+    border-radius: 5px;
+    background-color: orange;
+    text-decoration: none;
+    padding: 8px 20px;
+    color: white;
+    
+}
+a:hover{
+background: rgb(235, 93, 93);
+color: black;
+}
+
+
+.img-sec-2{
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+}
+.half-width-2{
+    width: 600px;
+    margin-left: 560px;
+    padding-top: 15px;
+}
+.bg-2{
+    background-image: url("developer-portfolio/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 200px;
+}
+
+span{
+    color: orange;
+    font-size: 18px;;
+}
+
+.last-section-edit1{
+   background:yellow;
+   border:1px solid red;
+   float:left;
+   width: 600px;
+}
+.last-section-edit2{
+    background:rgb(248, 248, 131);
+    border:1px solid red;
+    float:right;
+    width: 600px;
+ }
+ .last-section{
+     background-color:blue;
+     border:3px solid red;
+ }
