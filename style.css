@@ -71,3 +71,19 @@ span{
      background-color:blue;
      border:3px solid red;
  }
+
+
+.last-2sec1{
+    box-shadow: 2px 2px 30px gray;
+    margin-left: 50px;
+}
+.last-2sec-edit{
+    padding-left: 10px;
+}
+.last-sec-bg{
+    width: 600px;
+    display: inline-block;
+    background-image: url("developer-portfolio/exp-bg.png");
+    background-repeat: no-repeat;
+    
+}
